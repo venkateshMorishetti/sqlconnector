@@ -1,8 +1,8 @@
 var snowflake = require('snowflake-sdk');
 const connection = snowflake.createConnection({
-    account: 'kebstfb-ue47928',
-    username: 'venkateshmorishetti',
-    password: 'Chintu@97',
+    account: '',
+    username: '',
+    password: '',
     // Additional connection options...
   });
   
